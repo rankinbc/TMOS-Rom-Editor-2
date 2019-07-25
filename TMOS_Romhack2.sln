@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tmos.Romhacks.Core", "Tmos.Romhacks.Core\Tmos.Romhacks.Core.csproj", "{D88653F7-6E39-46B4-8578-9A3D12504C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tmos.Romhacks.UI", "Tmos.Romhacks.UI\Tmos.Romhacks.UI.csproj", "{6EF1E3EC-3B6F-4AB8-9FD8-5FECC7B14344}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tmos.Romhacks.Mods", "Tmos.Romhacks.Mods\Tmos.Romhacks.Mods.csproj", "{9A68FA61-FADF-49A4-AF1A-C05082B49647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88653F7-6E39-46B4-8578-9A3D12504C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88653F7-6E39-46B4-8578-9A3D12504C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88653F7-6E39-46B4-8578-9A3D12504C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88653F7-6E39-46B4-8578-9A3D12504C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EF1E3EC-3B6F-4AB8-9FD8-5FECC7B14344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF1E3EC-3B6F-4AB8-9FD8-5FECC7B14344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF1E3EC-3B6F-4AB8-9FD8-5FECC7B14344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF1E3EC-3B6F-4AB8-9FD8-5FECC7B14344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A68FA61-FADF-49A4-AF1A-C05082B49647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A68FA61-FADF-49A4-AF1A-C05082B49647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A68FA61-FADF-49A4-AF1A-C05082B49647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A68FA61-FADF-49A4-AF1A-C05082B49647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {738BD1F4-5BB9-4C2B-AF2B-55328152763C}
+	EndGlobalSection
+EndGlobal
